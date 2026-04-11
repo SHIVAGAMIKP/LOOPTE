@@ -71,10 +71,10 @@ Tests are data-driven using `data/testdata.json`. Each entry represents a test c
 
 ## Credentials
 
-Credentials default to `admin` / `password123`. Override via environment variables:
+Credentials default to `****` / `******`. Override via environment variables:
 
 ```bash
-APP_USERNAME=admin APP_PASSWORD=password123 npm test
+APP_USERNAME=**** APP_PASSWORD=****** npm test
 ```
 
 ---
